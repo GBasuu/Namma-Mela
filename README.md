@@ -40,9 +40,6 @@ Namma-Mela is a modern Android theatre booking application developed using Kotli
 3. Sync Gradle
 4. Run app
 
-## Screenshots
-(Add your screenshots here)
-
 ## Future Enhancements
 - Online ticket booking
 - Payment gateway
