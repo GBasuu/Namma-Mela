@@ -71,23 +71,27 @@ Village drama theatres and mela events often lack a proper digital booking syste
 ---
 ## Screenshots
 
+## Screenshots
+
 ### Login Screen
-![Login Screen](Screenshots/login.png)
+![Login Screen](Screenshots/Login%20Screen.png)
 
 ### Register Screen
-![Register Screen](Screenshots/register.png)
+![Register Screen](Screenshots/Register%20Screen.png)
 
 ### Home Screen
-![Home Screen](Screenshots/home.png)
+![Home Screen](Screenshots/Home%20Screen.png)
 
 ### Seat Booking Screen
-![Seat Booking](Screenshots/seat_booking_empty.png)
-
-### Booked Seats View
-![Booked Seats](Screenshots/seat_booking_booked.png)
+![Seat Booking](Screenshots/Seat%20Booking.png)
 
 ### Cast Screen
-![Cast Screen](Screenshots/cast.png)
+![Cast Screen](Screenshots/Cast%20Screen.png)
+
+### Booked Seats View
+![Booked Seats](Screenshots/Booked%20Seats%20View.png)
+
+---
 
 ## Future Enhancements
 
